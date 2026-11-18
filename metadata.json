@@ -1,0 +1,6 @@
+{
+  "name": "Car Dent AI",
+  "description": "Snap. Detect. Fix. Instant global car dent detection and repair cost estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
